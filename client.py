@@ -1,4 +1,4 @@
-"""client.py"""
+"""client.py | core"""
 
 import socket
 import threading
